@@ -1,0 +1,1 @@
+docker build -t karronqiu/hive-notebook -f Dockerfile .
